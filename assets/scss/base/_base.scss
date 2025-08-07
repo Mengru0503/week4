@@ -1,0 +1,24 @@
+
+a {
+    color: $neutral-900;
+    text-decoration: none;
+    display: block;
+    font-weight: 500;
+}
+a:hover {
+    color: $primary-400;
+    text-decoration: underline;
+}
+
+body{
+    font-family: "Noto Sans TC", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    color: $neutral-900;
+}
+
+img{
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
