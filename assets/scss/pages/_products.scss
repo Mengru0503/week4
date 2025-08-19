@@ -6,6 +6,12 @@
     border-radius: 0;
     font-weight: 400;
 }
+.page-item .btn:hover{
+    color: $primary-100;
+    font-weight: 500;
+    background: $primary-400;
+}
+
 
 .page-item .active {
     background-color: primary-300;
